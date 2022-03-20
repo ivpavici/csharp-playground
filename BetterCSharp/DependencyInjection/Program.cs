@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using Common;
+﻿using Common;
 using Microsoft.Extensions.DependencyInjection;
 
 var serviceProvider = BuildServiceProvider();
